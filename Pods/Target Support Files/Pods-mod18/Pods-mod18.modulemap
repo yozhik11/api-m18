@@ -1,0 +1,6 @@
+framework module Pods_mod18 {
+  umbrella header "Pods-mod18-umbrella.h"
+
+  export *
+  module * { export * }
+}
